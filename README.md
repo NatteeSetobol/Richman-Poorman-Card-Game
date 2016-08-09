@@ -1,5 +1,8 @@
 # RichmanPoorman
 A Chinese card game for the iOS in OpenGL ES.
+![alt tag](https://github.com/nsetobol/RichmanPoormanCardGame/blob/master/game.png)
+
+
 
 Requirements to compile:
 -XCode
